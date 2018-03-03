@@ -1,0 +1,13 @@
+.input-filter{    
+  color: #67D5B5;
+  padding: .5rem;
+  background: #000;
+  border: 0;  
+}
+.input-filter  + .input-filter{
+  margin-left: .5rem;
+}
+
+input::-webkit-input-placeholder {
+  color: #FFC952;
+}
